@@ -2,11 +2,6 @@
   <h2>Olá mundo! 👋</h2>
 </div>
 
-- 🔭 Trabalhando com desenvolvimento Android
-- 🌱 Estudando Jetpack Compose
-- ⚡ Fun fact: Mais conhecido como Jedi do que Fernando
-##
-
 <div align="center">
   <a href="https://github.com/fernando-barbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
