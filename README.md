@@ -1,15 +1,6 @@
 <div align="center">
   <h2>Olá mundo! Eu sou o Jedi, também conhecido como Fernando! 👋</h2>
-</div>
-
-<div align="center">
-  <a href="https://github.com/fernando-barbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-barbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-barbosa&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-</div>
-
-<br />
-  
+</div>  
 <div align="center">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
